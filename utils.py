@@ -1,0 +1,2 @@
+transaction = {}
+balance = [0]
